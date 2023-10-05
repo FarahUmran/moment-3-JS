@@ -1,5 +1,5 @@
 # Moment 3
-## Denna laboration består av två delar:##
+## Denna laboration består av två delar:
 
 * Del 1 - En uppsättning med frågor att besvara.
 * Del 2 - Att skapa ett repositie med en README-fil, samt publicera detta till Github.
